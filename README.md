@@ -13,4 +13,4 @@ This repo contains all Syrus tools sourcecode without obsfucater + tokengrabber 
 [Targo](https://gitdab.com/ignacio/SyrusLeak/src/branch/master/Targo)
 
 ## Discord
-[xn.#4628](https://discord.com/users/781946626696019999/profile) | [Server](https://dsc.gg/leak) 
+[Ignacio 🎄#1266](https://discord.com/users/249992678740066304/profile) | [Server](https://discord.gg/j8ZtjGsVPQ) 
