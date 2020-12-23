@@ -1,16 +1,16 @@
 # SyrusLeaked
-This repo contains all Syrus tools sourcecode without obsfucater + tokengrabber removed
+This repo contains most of Syrus tools sourcecode without obsfucater 
 
 ## Directory
-[ArticTool](https://gitdab.com/ignacio/SyrusLeak/src/branch/master/Artic-Tool)
+[ArticTool](https://github.com/k6d/SyrusLeak/tree/master/Artic-Tool)
 
-[DarkTools](https://gitdab.com/ignacio/SyrusLeak/src/branch/master/DarkTools)
+[DarkTools](https://github.com/k6d/SyrusLeak/tree/master/DarkTools)
 
-[Alpha Spammer](https://gitdab.com/ignacio/SyrusLeak/src/branch/master/Alpha-Spammer)
+[Alpha Spammer](https://github.com/k6d/SyrusLeak/tree/master/Alpha-Spammer)
 
-[TNOV4 SB](https://gitdab.com/ignacio/SyrusLeak/src/branch/master/TNOV4)
+[TNOV4 SB](https://github.com/k6d/SyrusLeak/tree/master/TNOV4)
 
-[Targo](https://gitdab.com/ignacio/SyrusLeak/src/branch/master/Targo)
+[Targo](https://github.com/k6d/SyrusLeak/tree/master/Targo)
 
 ## Discord
-[Ignacio 🎄#1266](https://discord.com/users/249992678740066304/profile) | [Server](https://discord.gg/j8ZtjGsVPQ) 
+[6mp#0010](https://discord.com/users/249992678740066304/profile) | [Server](https://discord.gg/BAY6cKSG2Q) 
